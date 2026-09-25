@@ -4,6 +4,12 @@
 
 Me chamo Antonio Pereira natural de São Paulo. Formado em Ciências da Computação. Movido por desafios. 
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-pereira-57293936/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
