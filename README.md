@@ -14,7 +14,6 @@ Me chamo Antonio Pereira natural de São Paulo. Formado em Ciências da Computa�
   <a href="https://github.com/antoniopsilv">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Antonio Pereira" /></a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
